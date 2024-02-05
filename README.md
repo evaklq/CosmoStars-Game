@@ -23,6 +23,7 @@ Swift project(game with different animations)
 Добавление боссов на конце каждого уровня, которые представляют собой более сложных и мощных противников, чем обычные пришельцы.
 
 Скрины:
+
 ![2024-02-05 17 21 39](https://github.com/evaklq/CosmoStars-Game/assets/125543042/ea3d9020-7d00-4e42-b2cf-1be53da1898c)
 ![2024-02-05 17 21 43](https://github.com/evaklq/CosmoStars-Game/assets/125543042/8a402b02-b784-48ff-970b-f32f8b71ccf7)
 
